@@ -1,5 +1,5 @@
 <a href="https://www.codewars.com/users/qbessi" target="_blank">
-  <img src="https://github.com/qbessi/learning-bash-shell/blob/main/learn-python.jpg" alt="Learn Python"/>
+  <img src="https://github.com/qbessi/learn-python-automation/blob/main/learn-python.jpg" alt="Learn Python"/>
 </a>
 
 1. **Automate File Renaming**  
