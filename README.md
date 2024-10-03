@@ -1,5 +1,3 @@
-Sure! Here’s the list of 50 Python automation tasks formatted in Markdown:
-
 ### 50 Python Automation Tasks
 
 1. **Automate File Renaming**  
