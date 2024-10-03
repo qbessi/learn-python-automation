@@ -1,6 +1,4 @@
-<a href="https://www.codewars.com/users/qbessi" target="_blank">
-  <img src="https://github.com/qbessi/learn-python-automation/blob/main/learn-python.jpg" alt="Learn Python"/>
-</a>
+<img src="learn-python.jpg" alt="Learn Python"/>
 
 1. **Automate File Renaming**  
    Write a script that renames multiple files in a directory based on a specified pattern.
